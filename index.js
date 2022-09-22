@@ -89,10 +89,10 @@ Baby.prototype.play = function(){
 /* 
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Binds to the window/console looking for this in the global scope. 
+  2. Inplicit uses dot syntax. 
+  3. New binding when creating a new constructor
+  4. explicit is when call or  apply is used with this. 
 */
 
 ///////// END OF CHALLENGE /////////
